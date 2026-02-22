@@ -17,7 +17,7 @@
     <artifactId>dpi-engine</artifactId>
     <version>2.0.0</version>
     <name>DPI Engine - Deep Packet Inspection System</name>
-    <description>Production-grade DPI Engine</description>
+    <description>Production-grade DPI Engine Project</description>
 
     <properties>
         <java.version>17</java.version>
