@@ -1,0 +1,16 @@
+com\dpiengine\model\FiveTuple.class
+com\dpiengine\model\DpiReport$FlowSummary.class
+com\dpiengine\DpiEngineApplication.class
+com\dpiengine\service\ConnectionTracker.class
+com\dpiengine\service\DpiEngineService$DpiResult.class
+com\dpiengine\model\DpiReport.class
+com\dpiengine\service\PcapReader.class
+com\dpiengine\model\Flow.class
+com\dpiengine\service\SniExtractor.class
+com\dpiengine\model\ParsedPacket.class
+com\dpiengine\model\AppType.class
+com\dpiengine\controller\DpiController.class
+com\dpiengine\model\RawPacket.class
+com\dpiengine\service\DpiEngineService.class
+com\dpiengine\service\PacketParser.class
+com\dpiengine\service\RuleManager.class
