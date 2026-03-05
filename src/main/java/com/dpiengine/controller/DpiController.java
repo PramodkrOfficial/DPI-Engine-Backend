@@ -4,6 +4,7 @@ import com.dpiengine.model.AppType;
 import com.dpiengine.model.DpiReport;
 import com.dpiengine.service.DpiEngineService;
 import com.dpiengine.service.RuleManager;
+import org.springframework.boot.origin.Origin;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
@@ -53,6 +54,7 @@ import java.util.stream.Collectors;
  *   DELETE /api/rules
  *     Clear all rules.
  */
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/api")
 public class DpiController {
