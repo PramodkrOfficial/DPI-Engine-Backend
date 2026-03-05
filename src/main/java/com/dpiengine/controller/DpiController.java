@@ -54,7 +54,7 @@ import java.util.stream.Collectors;
  *   DELETE /api/rules
  *     Clear all rules.
  */
-@CrossOrigin(origins = "*")
+//@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/api")
 public class DpiController {
